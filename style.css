@@ -1,0 +1,23 @@
+.div1 {
+    width: 400px;
+    height: 70px;
+    background-color: indianred;
+}
+.div2 {
+    width: 400px;
+    height: 70px;
+    background-color: cornflowerblue;
+    transform: translate(10deg);
+    margin: 30px;
+    position: relative;
+    bottom: 30px;
+}
+.div3 {
+    width: 400px;
+    height: 70px;
+    background-color: red;
+    transform: translate(50deg 20deg);
+    position: relative;
+    left: 130px;
+    bottom: 30px;
+}
